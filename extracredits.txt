@@ -1,0 +1,5 @@
+i did some css to make the page look prettier 
+i also store the body snippet of the webpage, then before present it to the users, i make sure to make 
+every input bold
+i also implement the ajax, for every keystroke they users put down, the page will render according to what the 
+users typed 

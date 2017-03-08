@@ -1,0 +1,7 @@
+For PA1, I just change the page to respond with JSONP object 
+For caching, i just make a dictionary and only store the input if there are more than 10 links because if not
+there are more to store 
+For PA2, i modified the front to query for PA1 for player result, add code for the page to contact admin asmx 
+to ask for crawled and inded sites, then sue LINQ to rank it. I also add the code to put new #titles and last title
+to the dashboard.
+For PA3, much still stays the same except for the inverted index change part. 
